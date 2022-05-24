@@ -1,6 +1,9 @@
 # Overview
 In this analysis, we use Tableau to visualize NYC Citi bikesharing data from August 2019 in order to propose the implementation of a similar bikesharing program in Des Moines, IA.
 
+
+Tableau Public: [Link to Dashboard](https://public.tableau.com/app/profile/jazmin.yuen/viz/bikesharing_16533615121970/Bikesharing)
+
 ## Results
 
 ![Checkout Times for Users](/images/1.jpg)
